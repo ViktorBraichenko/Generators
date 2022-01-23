@@ -25,5 +25,5 @@ function App() {
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1pYBlYXCHX7dER8cB-7OR-GHv0BCdT2-D/view?usp=sharing)
+![App Screenshot]![1](https://user-images.githubusercontent.com/44576306/150690658-81c945df-0d78-4b3f-a9e7-a0b576e34508.PNG)
 
