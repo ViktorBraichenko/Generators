@@ -25,5 +25,5 @@ function App() {
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://drive.google.com/file/d/1pYBlYXCHX7dER8cB-7OR-GHv0BCdT2-D/view?usp=sharing)
 
